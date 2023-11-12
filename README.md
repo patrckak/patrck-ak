@@ -1,16 +1,12 @@
-### Hi there 👋
+### Quem sou?
+Prazer :)
+Me chamo Patrick, atualmente trabalho como Suporte de TI e Eletricista autônomo e migrando para Desenvolvedor Web.
+Tenho 20 anos, algumas experiências com Programação principalmente Python, Java e Javascript.
 
-<!--
-**patrck-ak/patrck-ak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Alguns dos meus projetos:
+- https://github.com/patrck-ak/login-page
+- https://github.com/patrck-ak/cadastro-de-pacientes 
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Links Utéis :]
+- https://www.linkedin.com/in/patrick-oliveiraa/
+- https://www.instagram.com/patrck.ak/
