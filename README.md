@@ -4,8 +4,8 @@ Me chamo Patrick, atualmente trabalho como Suporte de TI e Eletricista autônomo
 Tenho 20 anos, algumas experiências com Programação principalmente Python, Java e Javascript.
 
 ### Alguns dos meus projetos:
-- https://github.com/patrck-ak/login-page
-- https://github.com/patrck-ak/cadastro-de-pacientes 
+- [Projeto Login + Session Node](https://github.com/patrck-ak/login-node)
+- [Projeto Frontend Sistema CRUD e Acesso a prontuario via ID](https://github.com/patrck-ak/cadastro-de-pacientes)
 
 ### Links Utéis :]
 - https://www.linkedin.com/in/patrick-oliveiraa/
