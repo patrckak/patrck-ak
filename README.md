@@ -13,11 +13,11 @@ Tenho 20 anos, algumas experiências com Programação principalmente Python, Ja
   
 - Javascript
   - Node.js
-    - React.js
-    - Express
-    - JWT
+  - React.js
+  - Express
+  - JWT
    
-- Database
+- Databases
   - PostGreSQL
   - MongoDB
   - Oracle
