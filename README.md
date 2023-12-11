@@ -5,19 +5,33 @@ Tenho 20 anos, algumas experiências com Programação principalmente Python, Ja
 
 ## Tecnológias 
 - Python
+  - pyGame
+  - Tkinter
+  - Django
+    
 - Java
+  
 - Javascript
   - Node.js
-  - React.js
+    - React.js
+    - Express
+    - JWT
+   
+- Database
+  - PostGreSQL
+  - MongoDB
+  - Oracle
+  - MySQL
+    
 - HTML, CSS
   - Bootstrap
-  - Sass
+  - Sass, Scss
 
 ## Projetos:
 - Projeto ConnectHealth
   [API](https://github.com/patrck-ak/api-connecthealth)
   [WebAPP](https://github.com/patrck-ak/clientside-connecthealth)
-    ### Versões separadas do ConnectHealth (backend e frontend)
+    ### Versões separadas do ConnectMed (backend e frontend)
   - [Projeto Autenticação JWT, MongoDB, Node, Bootstrap](https://github.com/patrck-ak/CRUD)
   - [Projeto Frontend Sistema CRUD e Acesso a prontuario via ID - WIP](https://github.com/patrck-ak/cadastro-de-pacientes)
 
