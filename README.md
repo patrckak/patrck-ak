@@ -1,9 +1,8 @@
 ## Quem sou?
-Prazer :)
-Me chamo Patrick, atualmente trabalho como Suporte de TI e Eletricista autônomo e migrando para Desenvolvedor Web.
-Tenho 20 anos, algumas experiências com Programação principalmente Python, Java e Javascript.
+Olá C: 
+Atualmente cursando ADS pela estácio, buscando novas oportunidades de trabalho e trabalhando em tempo integral como eletricista.
 
-## Tecnológias 
+## Tecnológias que domino/estudo.
 - Python
   - pyGame
   - Tkinter
@@ -20,7 +19,6 @@ Tenho 20 anos, algumas experiências com Programação principalmente Python, Ja
 - Databases
   - PostGreSQL
   - MongoDB
-  - Oracle
   - MySQL
     
 - HTML, CSS
