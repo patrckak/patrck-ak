@@ -4,22 +4,26 @@ Atualmente cursando ADS pela estácio, buscando novas oportunidades de trabalho 
 
 ## Tecnológias que domino/estudo.
 - Python
+  - Django
   - pyGame
   - Tkinter
-  - Django
     
 - Java
   
 - Javascript
+  - JWT
+  - Axios
+  - Bcrypt
   - Node.js
   - React.js
-  - Express
-  - JWT
+  - Express.js
+  - React Icons
+  - React Router Dom
    
 - Databases
-  - PostGreSQL
-  - MongoDB
   - MySQL
+  - MongoDB
+  - PostGreSQL
     
 - HTML, CSS
   - Bootstrap
