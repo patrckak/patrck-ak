@@ -42,21 +42,17 @@
 ## Projetos:
  
 - Projeto ConnectMed [WIP]
+  [Preview](https://clientside-connect-med.vercel.app/)
+  usuário e senha 'admin'
+  
 > Iniciei este projeto sendo analista de suporte em um hospital com intuito de integrar ele com o E-SUS no seu primórdio. Uma das principais vantagens dele seria o paciente não ter necessidade de ir até o local para retirar seu prontuário ou realizar marcação de consultas. 
 
   [API](https://github.com/patrck-ak/api-connectmed) | [Painel do médico](https://github.com/patrck-ak/clientside-connectmed) 
-
-
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=patrck-ak&show_icons=true&theme=radical)
-
-
-
-
     Versões anteriores
   - [Projeto Autenticação JWT, MongoDB, Node, Bootstrap](https://github.com/patrck-ak/CRUD)
   - [Projeto Frontend Sistema CRUD e Acesso a prontuario via ID - WIP](https://github.com/patrck-ak/cadastro-de-pacientes) 
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=patrck-ak&show_icons=true&theme=radical)
 
 ## Links Utéis :]
 - [Linkedin](https://www.linkedin.com/in/patrick-oliveiraa/)
