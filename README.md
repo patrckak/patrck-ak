@@ -1,4 +1,4 @@
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=patrck-ak)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=patrck-ak&show_icons=true&theme=radical)
 
 ### *Sobre*
 >**Estou atualmente concluindo minha graduação em Análise e Desenvolvimento de Sistemas (ADS) na Estácio, ao mesmo tempo em que atuo como eletricista freelancer em período integral. Estou dedicado a buscar oportunidades no campo do desenvolvimento backend, visando aplicar e expandir meus conhecimentos na área.**
