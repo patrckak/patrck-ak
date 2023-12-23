@@ -1,4 +1,4 @@
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=patrck-ak&show_icons=true&theme=radical)
+
 
 ### *Sobre*
 >**Estou atualmente concluindo minha graduação em Análise e Desenvolvimento de Sistemas (ADS) na Estácio, ao mesmo tempo em que atuo como eletricista freelancer em período integral. Estou dedicado a buscar oportunidades no campo do desenvolvimento backend, visando aplicar e expandir meus conhecimentos na área.**
@@ -45,6 +45,10 @@
 > Iniciei este projeto sendo analista de suporte em um hospital com intuito de integrar ele com o E-SUS no seu primórdio. Uma das principais vantagens dele seria o paciente não ter necessidade de ir até o local para retirar seu prontuário ou realizar marcação de consultas. 
 
   [API](https://github.com/patrck-ak/api-connectmed) | [Painel do médico](https://github.com/patrck-ak/clientside-connectmed) 
+
+
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=patrck-ak&show_icons=true&theme=radical)
 
 
 
