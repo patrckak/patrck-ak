@@ -12,7 +12,7 @@
 #### *Projetos*
  
 - Projeto ConnectMed [WIP]
-  > [Preview](https://clientside-connect-med.vercel.app/)
+  > [Preview](https://connectmed.vercel.app/)
   > usuário e senha 'admin'
     
   > Iniciei este projeto sendo analista de suporte em um hospital com intuito de integrar ele com o E-SUS no seu primórdio. Uma das principais vantagens dele seria o paciente não   > ter necessidade de ir até o local para retirar seu prontuário ou realizar marcação de consultas. 
