@@ -1,6 +1,6 @@
 # *Hi There 🖐️*
-> Currently completing my degree in Systems Analysis and Development (ADS) at Estácio, I am dedicated to seeking opportunities in the field of fullstack development, aiming to apply and expand my knowledge in the area.
-<br>
+> Currently completing my degree in Systems Analysis and Development (ADS) at Estácio, I am dedicated to seeking opportunities in the field of fullstack development, aiming to apply and expand my knowledge in the area. <br>
+> 
 > Atualmente concluindo minha graduação em Análise  e Desenvolvimento de Sistemas (ADS) na Estácio,  Estou dedicado a buscar oportunidades no campo do desenvolvimento fullstack, visando aplicar e expandir meus conhecimentos na área.
 
 ## *Projects*
